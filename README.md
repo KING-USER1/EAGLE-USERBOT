@@ -6,10 +6,10 @@
 
 
 
-# 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
+# ðšƒð™·ð™´ ð™¼ð™°ð™µð™¸ð™°ð™±ð™¾ðšƒ
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
-EagleBot made by @devil_boy_6. Supported by respective hellbot owner . Join for update related info channel and group :- https://t.me/EAGLE_USERBOT THANKS FOR VISITING OUR REPO💖
+EagleBot made by @devil_boy_6. Supported by respective hellbot owner . Join for update related info channel and group :- https://t.me/EAGLE_USERBOT THANKS FOR VISITING OUR REPOðŸ’–
 [![EAGLEBOT LOGO](https://telegra.ph/file/8a638fe98c217f020d01b.jpg)](https://t.me/EAGLE_USERBOT)
 
 
@@ -18,8 +18,8 @@ EagleBot made by @devil_boy_6. Supported by respective hellbot owner . Join for 
 
 <details>
 
-  <summary>  1�7 FOR ANY QUERY  1�7 </summary>
-<h2 align="center"> <a href="https://t.me/EAGLE_USERBOT">☢️JOIN EAGLEBOT SUPPORT☢️</a></h2>
+  <summary> â€„1¤7 FOR ANY QUERY â€„1¤7 </summary>
+<h2 align="center"> <a href="https://t.me/EAGLE_USERBOT">â˜¢ï¸JOIN EAGLEBOT SUPPORTâ˜¢ï¸</a></h2>
 
 </details>
 
@@ -28,29 +28,29 @@ EagleBot made by @devil_boy_6. Supported by respective hellbot owner . Join for 
 
 <details>
 
-  <summary>  1�7 INSTALLING  1�7 </summary>
+  <summary> â€„1¤7 INSTALLING â€„1¤7 </summary>
 
 ### The Easy Way
 
-<h4>⚜️ DEPLOY TO HEROKU ⚜️</h4>
+<h4>âšœï¸ DEPLOY TO HEROKU âšœï¸</h4>
 
-<a href="https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fgithub.com%2FH1M4N5HU0P%2FMAFIABOT&template=https%3A%2F%2Fgithub.com%2FH1M4N5HU0P%2FMAFIABOT" rel="nofollow" style="background-color: initial; box-sizing: border-box; color: #0366d6; text-decoration-line: none;"><img alt="Deploy" data-canonical-src="https://www.herokucdn.com/deploy/button.svg" src="https://camo.githubusercontent.com/83b0e95b38892b49184e07ad572c94c8038323fb/68747470733a2f2f7777772e6865726f6b7563646e2e636f6d2f6465706c6f792f627574746f6e2e737667" style="border-style: none; box-sizing: initial; max-width: 100%;" /></a></div>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KING-USER1/EAGLE-USERBOT)
 
-<h2 align="center"> <a href="https://github.com/H1M4N5HU0P/MAFIA-USERBOT">⚄1�7 𝙼𝙰𝙵𝙸𝙰 𝚄𝚂𝙴𝚁𝙱𝙾𝚃 ⚄1�7</a></h2>
-
-</details>
-
-<details>
-
-  <summary>  1�7 CREDITS👀  1�7 </summary>
-<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">💥 HELLBOT 💥</a></h2>
- One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOT😏
+<h2 align="center"> <a href="https://github.com/KING-USER1/EAGLE-USERBOT">âš„1¤7 ð™¼ð™°ð™µð™¸ð™° ðš„ðš‚ð™´ðšð™±ð™¾ðšƒ âš„1¤7</a></h2>
 
 </details>
 
 <details>
 
-  <summary>  1�7 THE NORMAL WAY  1�7 </summary>
+  <summary> â€„1¤7 CREDITSðŸ‘€ â€„1¤7 </summary>
+<h2 align="center"> <a href="https://github.com/HellBoy-OP/HellBot">ðŸ’¥ HELLBOT ðŸ’¥</a></h2>
+ One and only. Others with some misfuntioning brain stay out from this SUPER POWERFULL BOTðŸ˜
+
+</details>
+
+<details>
+
+  <summary> â€„1¤7 THE NORMAL WAY â€„1¤7 </summary>
 
 Simply clone the repository and run the main file:
 ```sh
@@ -81,7 +81,7 @@ class Development(Var):
 
 <details>
 
-  <summary>  1�7 UNIBORG CONFIGURATION  1�7 </summary>
+  <summary> â€„1¤7 UNIBORG CONFIGURATION â€„1¤7 </summary>
 
 The UniBorg Config is situated in `userbot/uniborgConfig.py`.
 
@@ -95,7 +95,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 <details>
 
-  <summary>  1�7 MANDATORY VARS  1�7 </summary>
+  <summary> â€„1¤7 MANDATORY VARS â€„1¤7 </summary>
 
 - Only two of the environment variables are mandatory.
 - This is because of `telethon.errors.rpc_error_list.ApiIdPublishedFloodError`
@@ -108,7 +108,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 <details>
 
-  <summary>  1�7 LICENSE  1�7 </summary>
+  <summary> â€„1¤7 LICENSE â€„1¤7 </summary>
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
